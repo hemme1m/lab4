@@ -1,0 +1,15 @@
+a:hover {
+	color: #4D2100;
+	font-size: 1.1em;
+}
+
+.glyphicon:hover {
+	color: red;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+img {
+	height: 50%;
+	width: 50%;
+}
